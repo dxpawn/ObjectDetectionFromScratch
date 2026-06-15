@@ -21,6 +21,7 @@ detection model), and `torchvision.ops` is not used.
 Scores are produced by the provided grader at `public/tools/evaluate_predictions.py`.
 The course grading scale gives full points at mAP@0.5 of 0.75 or higher. The 0.858
 validation result is above that bar.
+Refer to `METRICS.md` for more details.
 
 ## Quickstart
 
